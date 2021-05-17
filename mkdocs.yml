@@ -1,7 +1,6 @@
 site_name: Documentation Retrodigitalisierung Euler Opera Omnia
 nav:
   - Bände: volumes.md
-  - Reader: reader.md
 theme:
   name: ivory
   font:
