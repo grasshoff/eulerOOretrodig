@@ -1,6 +1,7 @@
-site_name: Documentation Retrodigitalisierung Euler Opera Omnia
+site_name: Retrodigitalisierung Euler Opera Omnia
 nav:
-  - Bände: volumes.md
+  - Übersicht: index.md
+  - Projekt Arbeitsabschnitte: volumes.md
 theme:
   name: ivory
   font:
@@ -21,6 +22,7 @@ theme:
 markdown_extensions:
   - footnotes
   - attr_list
+  - def_list
   - admonition
   - toc:
       toc_depth : 6
